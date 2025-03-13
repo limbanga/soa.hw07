@@ -77,4 +77,4 @@ The project includes the following models:
 
 4. **Response result**:
 
-![excercise04](../images/previews/excercise04.png)
+![excercise04](images/previews/excercise04.png)
